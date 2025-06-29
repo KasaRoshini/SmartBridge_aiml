@@ -25,14 +25,14 @@ HematoVision: AI-Powered Blood Cell Classification
 
 [Copy of Brainstorming- Idea Generation- Prioritizaation Template.docx](https://github.com/user-attachments/files/20961814/Copy.of.Brainstorming-.Idea.Generation-.Prioritizaation.Template.docx)
 
-REQUIREMENT ANALYSIS:
+3.REQUIREMENT ANALYSIS:
 [Customer Journey Map - Example.pdf](https://github.com/user-attachments/files/20961844/Customer.Journey.Map.-.Example.pdf)
 
 [Copy of Data Flow Diagrams and User Stories.docx](https://github.com/user-attachments/files/20961848/Copy.of.Data.Flow.Diagrams.and.User.Stories.docx)
 
 [Copy of Technology Stack - Template.docx](https://github.com/user-attachments/files/20961852/Copy.of.Technology.Stack.-.Template.docx)
 
-PROJECT DESIGN:
+4.PROJECT DESIGN:
 [Copy of Problem - Solution Fit Template v1.docx](https://github.com/user-attachments/files/20961855/Copy.of.Problem.-.Solution.Fit.Template.v1.docx)
 
 [Copy of Proposed Solution Template.docx](https://github.com/user-attachments/files/20961857/Copy.of.Proposed.Solution.Template.docx)
